@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Moony's Adveture
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,38 +8,38 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Moony's Adventure
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Ana Zamudio Gutiérrez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este pequeña novela gráfica interactiva que presento como proyecto presenta la historia de Moony, una pequeña criatura que vive en Villa seta y quiere emprender su camino hasta la gran Ciudad Champiñón. Pero en este aventura en la que la acompañamos, se encontrará con diversos peligros que pondrá a prueba su astucia...
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego / novela gráfica
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : El logotipo muestra el título del videojuego, que se inserta en la pantalla del menú principal con un timeline que permite iniciar e introducir el título del juego de una forma dinámica.
+![moonys-adventures(01)](https://user-images.githubusercontent.com/106731547/172585043-40185a64-b134-4f23-a04e-b0a4fae28d51.png)
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Microsoft Edge
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 4.67MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 08/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github:
-- Twitter
-- Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![Moony-front-talking1](https://user-images.githubusercontent.com/106731547/172586140-e972626a-1d17-48c8-a602-609e69e7c4d1.png)
+
 
 # 2. Memoria del proyecto 
 

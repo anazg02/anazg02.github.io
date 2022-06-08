@@ -71,9 +71,9 @@ Finalmente llegas a la pantalla del juego final en la que aparece una puerta con
 # 3. Metodología
 
 El juego ha sido probado por cinco personas de entre 20 y 22 años. He encontrado diversos errores en el planteamiento a mejorar, entre ellos:
--Cambiar la opción del juego del quizz en el que si no intentas hacer el quizz pierdes el juego. Lo que indica en la opción ("I will find another way myself"), da a entender que hay otra manera de segir el juego.
--Poner el número del tiempo en el quizz en mayor tamaño con tal de que sea percibido más fácilmente.
--Situar el botón de "play" el primero entre los botones de la pantalla del menú principal y no el último.
+ - Cambiar la opción del juego del quizz en el que si no intentas hacer el quizz pierdes el juego. Lo que indica en la opción ("I will find another way myself"), da a entender que hay otra manera de segir el juego.
+ - Poner el número del tiempo en el quizz en mayor tamaño con tal de que sea percibido más fácilmente.
+ - Situar el botón de "play" el primero entre los botones de la pantalla del menú principal y no el último.
 
 
 
@@ -128,7 +128,6 @@ Por otro lado, en un futuro me gustarís poder solucionar los fallos ya comentad
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
 
 
 **Recursos y materiales audiovisuales:**

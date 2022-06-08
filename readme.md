@@ -62,14 +62,10 @@ Finalmente llegas a la pantalla del juego final en la que aparece una puerta con
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![Notes_220608_181655](https://user-images.githubusercontent.com/106731547/172705552-2d9e1cef-4a43-4dca-84d5-59337079acd0.jpg)
+![Notes_220530_180731_1](https://user-images.githubusercontent.com/106731547/172705600-8b916a16-a7d8-479a-ae61-572d2ec386b4.jpg)
+![Notes_220530_180731_2](https://user-images.githubusercontent.com/106731547/172705633-50a12b06-ff67-4994-94ce-3afc0bc49803.jpg)
+![Notes_220608_214621](https://user-images.githubusercontent.com/106731547/172705642-44ab1b9d-00bf-416d-a192-ecdc6dc6cbad.jpg)
 
 
 # 3. Metodología
@@ -82,10 +78,10 @@ El juego ha sido probado por cuatro personas de entre 20 y 22 años. He encontra
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Juegos realizados por compañeros de años anteriores.
 
 
 

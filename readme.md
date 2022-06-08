@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Moony's Adventure
 
-**Web:**   (url github.io)
+**Web:**   anazg02.github.io/index
 
 **Autor:**  Ana Zamudio Gutiérrez
 
@@ -70,9 +70,10 @@ Finalmente llegas a la pantalla del juego final en la que aparece una puerta con
 
 # 3. Metodología
 
-El juego ha sido probado por cuatro personas de entre 20 y 22 años. He encontrado diversos errores en el planteamiento a mejorar, entre ellos:
+El juego ha sido probado por cinco personas de entre 20 y 22 años. He encontrado diversos errores en el planteamiento a mejorar, entre ellos:
 -Cambiar la opción del juego del quizz en el que si no intentas hacer el quizz pierdes el juego. Lo que indica en la opción ("I will find another way myself"), da a entender que hay otra manera de segir el juego.
 -Poner el número del tiempo en el quizz en mayor tamaño con tal de que sea percibido más fácilmente.
+-Situar el botón de "play" el primero entre los botones de la pantalla del menú principal y no el último.
 
 
 
@@ -103,26 +104,24 @@ Este  proyecto es interesante porque presenta distinto niveles de juego en los q
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. Con respecto al juego he planteado como solución un juego de novela gráfica con varios niveles formados por distintos juegos, escenarios y personajes. además, el juego cuenta con una pantalla de menú principal desde la cual el jugador puede acceder tanto al juego como a la galería, lo scréditos o la introducción.
+- Video. Como vídeo para el proyecto he realizado un speedpaint que incluiría en la galería de imágenes del proyecto. En éste se puede observar cómo creo a uno de los personajes y, además tiene un botón conmutador que permite pausar o continuar el vídeo en todo momento.
+- Instrucciones y ayuda al usuario. He sitiado mensajes a lo largo de los distintos escenarios que ayudan al jugador a guiarse a través de las distintas pantallas del juego. También he intentado cuidar la interfaz del menú y de la colocación de los botones en las distintas pantallas para que resultaran lo más intuitivas posibles.
+- Menús y elementos de navegación. He tratado de situar los botones y elementos de navegación a lo largo de las distintas pantallas de la forma más intuitiva con tal de que resulte de fácil acceso al usuario. Además, he creado los distintos botones del juego con tal de que se adecuaran correctamente a la estética del juego.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Algunos de los errores más importantes que creo que he comentido en este proyecto son los ya comentados a raíz de las pruebas realizadas a los distintos usuarios, que se contemplan en el apartado acerca de la metodología. A parte de estos errores, he tenido fallos al cargar las imágenes del botón pulsado en los sliders; en la pantalla de créditos éstos no terminan de desaparecer de la pantalla; y, finalmente, en la pantalla de "you died" se ha superpuesto el botón de vuelta al menú sobre el título.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Considero que, teniendo en cuenta el tiempo del que hemos dispuesto para la realización de este proyecto, he realizado un muy buen trabajo. He sido capaz de realizar todos los escenarios, personajes y botones del juego de manera coherente, con una paleta de colores armónica y un estilo acorde con la temática propuesta por el juego. Estoy, por ello, muy contenta con la estética lograda. Por otro lado, considero que, en cuanto a la parte técnica, a pesar de presentar los diversos errores ya comentados con anterioridad, he realizado también muy buen trabajo. Pese a las dificultades con las que me encontré en el desarrollo del proyecto (la correcta funcionalidad del quizz y los candados, la funcionalidad de la música y el vídeo, la adecuada exportación del proyecto...), he conseguido lograr muy buen resultado con un juego que presenta una buena funcionalidad y que cumple las expectativas que yo tenía del mismo a comienzos de la asignatura.
 
-
-
+Por otro lado, en un futuro me gustarís poder solucionar los fallos ya comentados y, además, añadir algunas escenas que creo que podría haber añadido al proyecto de haber tenido más tiempo. Me gustaría poder seguir desarrollándolo más tranquilamente.
 
 
 
@@ -131,18 +130,19 @@ Este  proyecto es interesante porque presenta distinto niveles de juego en los q
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  "Paris Streets", Jo.Bite; "Dreamy road", Christian Petermann; "Twisted Fantasies", Kostia Deep; "Eating show", Waderman; "Impromptu", Igor Pumphonia; "A night on the town", Stefan Kartenberg.
+* Imágenes: diseño propio de todos los escenarios, botones y personajes.
+* Tipografía: Georgia, Bahnscrift
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop 
+- Gimp
+- Infinite Painter
 
 
 
@@ -151,4 +151,4 @@ Este  proyecto es interesante porque presenta distinto niveles de juego en los q
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022

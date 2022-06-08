@@ -43,10 +43,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Primero, aparece la escena de introducción del juego, que concluye en la pantalla de menú principal del mismo.
+![Escenario2(menos-peso)_0003_Original](https://user-images.githubusercontent.com/106731547/172657304-600e1087-2a3b-4926-a7e6-b33ff76659b5.jpg)
 
+Cuando se pulsa el botón de "play" comienza el juego con una pantalla de diálogo de la protagonista en la que ésta narra el objetivo principal del juego, que es llegar a Ciudad Champiñón.
+![Screenshot (64)](https://user-images.githubusercontent.com/106731547/172657850-0bc6b728-2d76-46e0-8d70-1088870ffe76.png)
 
+Cuando termina esta escena, comienza la siguiente en la que debes mover el personaje hasta toparte con MrRaven, con quien mantienes un diálogo. 
+![Screenshot (66)](https://user-images.githubusercontent.com/106731547/172658467-b185fef7-5185-45a2-8791-425bb9942e03.png)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Después, pasa a la siguiente pantalla, donde mantienes un diálogo con otro de los personajes: Sasha, la sirena del lago. Ella te propone el juego de quizz.
+![Screenshot (67)](https://user-images.githubusercontent.com/106731547/172658963-3dd66bf2-1420-4bca-98fe-6a06d9d8b379.png)
+
+Finalmente llegas a la pantalla del juego final en la que aparece una puerta con tres candados en los que debes averiguar la combinación para llegar a tu destino. Una vez que consigues la combinación correcta, pasas a la pantalla en la que llegas a Ciudad Champiñón y concluye el juego con los créditos finales.
+
 
 
 
@@ -64,7 +74,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+El juego ha sido probado por cuatro personas de entre 20 y 22 años. He encontrado diversos errores en el planteamiento a mejorar, entre ellos:
+-Cambiar la opción del juego del quizz en el que si no intentas hacer el quizz pierdes el juego. Lo que indica en la opción ("I will find another way myself"), da a entender que hay otra manera de segir el juego.
+-Poner el número del tiempo en el quizz en mayor tamaño con tal de que sea percibido más fácilmente.
 
 
 
@@ -79,13 +91,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque presenta distinto niveles de juego en los que, si eliges la opción incorrecta, debes volver a empezar, lo cual propone un pequeño y divertido reto para el jugador. Además, presenta distintos escenarios y divertidos personajes en un ambiente creativo de fantasía.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos.
 
 
 
@@ -138,7 +150,8 @@ Este  proyecto es interesante porque ...
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://user-images.githubusercontent.com/106731547/172654971-e6e7d17b-9a55-43b3-b116-05b915260647.png)
+
 
 https://creativecommons.org/licenses/?lang=es
 

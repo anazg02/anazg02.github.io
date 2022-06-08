@@ -21,7 +21,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Logotipo** : El logotipo muestra el título del videojuego, que se inserta en la pantalla del menú principal con un timeline que permite iniciar e introducir el título del juego de una forma dinámica.
 ![moonys-adventures(01)](https://user-images.githubusercontent.com/106731547/172585043-40185a64-b134-4f23-a04e-b0a4fae28d51.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px tamaño fijo
 

@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios**:
 
-- Github:
+- Github
 
 
 ![Moony-front-talking1](https://user-images.githubusercontent.com/106731547/172586140-e972626a-1d17-48c8-a602-609e69e7c4d1.png)
